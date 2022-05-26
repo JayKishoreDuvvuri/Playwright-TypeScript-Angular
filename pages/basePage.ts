@@ -125,7 +125,7 @@ export class BasePage {
   async isElementChecked(
     selector: string,
     errorMessage: string
-  ): Promise<void> {
+  ): Promise<BasePage> {
     await this.page.waitForSelector(selector);
     const element = this.page.locator(selector);
     const isChecked = await element.isChecked();
