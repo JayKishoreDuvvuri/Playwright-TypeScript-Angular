@@ -12,7 +12,7 @@ We are using https://www.jetblue.com/ as the Application Under Test. This App is
 
 #### Scenario
 
-```bash
+```bash. 
 Scenario:
 User launches the application and fills in data on landing page
 to get the search results of flights and navigates back to Landing page
