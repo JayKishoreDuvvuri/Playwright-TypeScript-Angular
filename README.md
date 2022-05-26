@@ -72,3 +72,10 @@ npm run test:parallel  - For tests run parallel on chrome and firefox browsers
 ```bash
 Test-Report : npm run test:report
 ```
+
+#### Bitbucket
+
+```bash
+Repo: https://bitbucket.org/jaykishore96/playwright-typescript-angular/src/master/
+Pipelines: https://bitbucket.org/jaykishore96/playwright-typescript-angular/pipelines/results/page/1
+```
