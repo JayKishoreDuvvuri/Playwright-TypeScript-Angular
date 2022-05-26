@@ -1,0 +1,22 @@
+{
+  "name": "playwright-typescipt-angular",
+  "version": "1.0.0",
+  "description": "Playwright with Typescript for Angular App",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "npx playwright test --project=Chrome",
+    "test:firefox": "npx playwright test --project=Firefox",
+    "test:parallel": "npx playwright test",
+    "test:record": "npx playwright codegen",
+    "test:report": "npx playwright test --reporter=html && npx playwright show-report",
+    "show-trace": "npx playwright show-trace"
+  },
+  "author": "Jay",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.22.2",
+    "@playwright/test": "^1.22.2",
+    "fs": "^0.0.1-security",
+    "typescript": "^4.4.2"
+  }
+}
