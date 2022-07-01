@@ -67,7 +67,7 @@ Run tests in Parallel
 npm run test:parallel  - For tests run parallel on chrome and firefox browsers
 ```
 
-#### Playwright Test Report
+#### Playwright Test Report 
 
 ```bash
 Test-Report : npm run test:report
