@@ -62,7 +62,7 @@ npm run test:firefox - For test on firefox browser
 ```
 
 Run tests in Parallel
-
+ 
 ```bash
 npm run test:parallel  - For tests run parallel on chrome and firefox browsers
 ```
