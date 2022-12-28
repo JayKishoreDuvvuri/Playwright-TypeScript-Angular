@@ -8,7 +8,7 @@ We are using https://www.jetblue.com/ as the Application Under Test. This App is
 
 - URL: https://www.jetblue.com/
 - OS : macOS
-- IDE : Visual Studio Code
+- IDE : Visual Studio Code 
 
 #### Scenario
 
