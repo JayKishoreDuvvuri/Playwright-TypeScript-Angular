@@ -59,7 +59,7 @@ Run tests on firefox
 
 ```bash
 npm run test:firefox - For test on firefox browser
-```
+``` 
 
 Run tests in Parallel
  
